@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbersAscending", "SortNumbersAscending\SortNumbersAscending.csproj", "{6E77AFD5-A335-43C1-89C8-0FAAD62D757C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ConsoleApplication1\ReverseString.csproj", "{8985F63A-E58E-43F7-AC9D-34FA57955804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeMaker", "ChangeMaker\ChangeMaker.csproj", "{3BDB6A5F-9CEE-49F5-BCDC-F161967BC972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E77AFD5-A335-43C1-89C8-0FAAD62D757C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E77AFD5-A335-43C1-89C8-0FAAD62D757C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E77AFD5-A335-43C1-89C8-0FAAD62D757C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E77AFD5-A335-43C1-89C8-0FAAD62D757C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8985F63A-E58E-43F7-AC9D-34FA57955804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8985F63A-E58E-43F7-AC9D-34FA57955804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8985F63A-E58E-43F7-AC9D-34FA57955804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8985F63A-E58E-43F7-AC9D-34FA57955804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDB6A5F-9CEE-49F5-BCDC-F161967BC972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDB6A5F-9CEE-49F5-BCDC-F161967BC972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDB6A5F-9CEE-49F5-BCDC-F161967BC972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDB6A5F-9CEE-49F5-BCDC-F161967BC972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
