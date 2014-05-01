@@ -32,18 +32,30 @@ namespace Elementary_exercises
             Console.WriteLine("Please enter a number:");
             int number = int.Parse(Console.ReadLine());
             int sum = 0, i = 0;
+            
             while (i <= number)
             {
                 sum = sum + i;
                 i++;
             }
             Console.WriteLine("The sum of all the numbers between one and {0} is: {1}", number, sum);
-
             //The above loop can also be written as a function that accepts an int 'n' parameter with 
             //the following body:
             //long sum = n * (n + 1)/2;
             //This formula was discovered by the famous mathematician Gauss to quickly find the sum
             // of all numbers from 1 up to a given number
+
+
+            //Modify the previous program such that only multiples of three or five are considered in
+            // the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for 'n = 17'
+            Console.WriteLine("Please enter a number:");
+            int n = int.Parse(Console.ReadLine());
+            int sum1 = 0;
+            int i2 = 0;
+
+            while( i2 <= n ){
+                if((n % 3 == 0) || (n % 5 = 0)){
+
         }
     }
 }
