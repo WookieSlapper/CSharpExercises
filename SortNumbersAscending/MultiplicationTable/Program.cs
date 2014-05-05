@@ -11,6 +11,7 @@ namespace MultiplicationTable
         static void Main(string[] args)
         {
             MultTable(12);
+            Console.ReadKey();
         }
         public static void MultTable(int n)
         {
@@ -47,5 +48,7 @@ namespace MultiplicationTable
             }
             return s;
         }
+
     }
+
 }
