@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementary exercises", "Ele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{86E30510-FD29-454F-A213-BBDCE66EF97B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingConversions", "BoxingConversions\BoxingConversions.csproj", "{7AB5188C-933D-4629-BC63-8F0E6A6AED85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithScope", "WorkingWithScope\WorkingWithScope.csproj", "{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{86E30510-FD29-454F-A213-BBDCE66EF97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E30510-FD29-454F-A213-BBDCE66EF97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E30510-FD29-454F-A213-BBDCE66EF97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB5188C-933D-4629-BC63-8F0E6A6AED85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB5188C-933D-4629-BC63-8F0E6A6AED85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB5188C-933D-4629-BC63-8F0E6A6AED85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB5188C-933D-4629-BC63-8F0E6A6AED85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
