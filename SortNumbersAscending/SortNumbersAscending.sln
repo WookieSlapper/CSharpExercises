@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingConversions", "Boxing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithScope", "WorkingWithScope\WorkingWithScope.csproj", "{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{0F0604C7-42DF-42B4-8D40-163B3E9FB3DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D21015B-E452-4B48-B5C1-4F9C659D6A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0604C7-42DF-42B4-8D40-163B3E9FB3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0604C7-42DF-42B4-8D40-163B3E9FB3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0604C7-42DF-42B4-8D40-163B3E9FB3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0604C7-42DF-42B4-8D40-163B3E9FB3DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
